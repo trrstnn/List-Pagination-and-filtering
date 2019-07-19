@@ -1,2 +1,18 @@
 # List-Pagination-and-filtering
- Treehouse Techdegree: FSJS project 2 - List Filter and Pagination
+
+
+[Check it out here!](https://trrstnn.github.io/Random-Quote-Generator/)
+
+## An app for filtering a page to only display a set amount of items through dom manipulation.
+
+## Technologies
+* HTML5
+* CSS3
+* Javascrript(ES6)
+
+## Features:
+- Dom Manipulation
+
+
+## Future Updates: 
+- Update Styling
